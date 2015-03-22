@@ -11,7 +11,7 @@ ENJOY
 
 P.S: please fork and star it.
 
-Licene:
+License:
 
             The MIT License (MIT)
 
